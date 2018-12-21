@@ -1,0 +1,7 @@
+c:\users\турмаханд\source\repos\ClassWork\ClassWork\bin\Debug\ClassWork.exe.config
+c:\users\турмаханд\source\repos\ClassWork\ClassWork\bin\Debug\ClassWork.exe
+c:\users\турмаханд\source\repos\ClassWork\ClassWork\bin\Debug\ClassWork.pdb
+c:\users\турмаханд\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.csprojAssemblyReference.cache
+c:\users\турмаханд\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.csproj.CoreCompileInputs.cache
+c:\users\турмаханд\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.exe
+c:\users\турмаханд\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.pdb
